@@ -12,4 +12,4 @@ export const PICX_INIT_REPO_MSG = 'Init repo via PicX (https://github.com/XPoet/
 
 export const PICX_INIT_DEPLOY_MSG = 'Init deploy status via PicX (https://github.com/XPoet/picx)'
 export const PICX_UPDATE_DEPLOY_MSG =
-  'Update deploy status via PicX (https://github.com/XPoet/picx)'
+  'Update deploy status via PicX (https://github.com/shenweiyan/PicX)'
