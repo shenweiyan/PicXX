@@ -21,7 +21,7 @@ import { imgLinkRuleVerification } from '@/stores/modules/user-settings/utils'
 
 const initSettings: UserSettingsModel = {
   imageName: {
-    autoAddHash: true,
+    autoAddHash: false,
     autoTimestampNaming: false,
     prefixNaming: { enable: false, prefix: '' }
   },
