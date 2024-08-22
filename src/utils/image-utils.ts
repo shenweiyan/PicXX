@@ -33,7 +33,7 @@ export const createUploadImageObject = (): UploadImageModel => {
       final: '',
       initName: '',
       newName: '',
-      isAddHash: true,
+      isAddHash: false,
       isRename: false,
       isPrefixNaming: false,
       isTimestampNaming: false
